@@ -36,3 +36,6 @@ npx hardhat run scripts/withdraw.js
 
 will allow you to withdraw any tips stored on the contract.
 
+There are 3 challenges to improve the code, I will add these commits later. 
+
+## You can find the basic website here: https://buymeacoffee-solidity-defi-tipping-app--bertankofon.repl.co/  Don't forget to send me the tips! :)
